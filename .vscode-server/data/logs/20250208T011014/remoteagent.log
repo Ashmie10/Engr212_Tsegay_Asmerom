@@ -1,0 +1,32 @@
+2025-02-08 01:10:14.538 [info] 
+
+
+
+
+2025-02-08 01:10:14.549 [info] Extension host agent started.
+2025-02-08 01:10:14.594 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student/.vscode-server/extensions
+2025-02-08 01:10:14.775 [info] [<unknown>][af046127][ExtensionHostConnection] New connection established.
+2025-02-08 01:10:14.776 [info] [<unknown>][633963df][ManagementConnection] New connection established.
+2025-02-08 01:10:19.341 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student/.vscode-server/extensions
+2025-02-08 01:10:19.996 [info] [<unknown>][af046127][ExtensionHostConnection] <1384> Launched Extension Host Process.
+2025-02-08 01:11:52.064 [info] [<unknown>][633963df][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-08 01:11:52.090 [info] [<unknown>][af046127][ExtensionHostConnection] <1384> Extension Host Process exited with code: 0, signal: null.
+2025-02-08 01:11:52.091 [info] Cancelling previous shutdown timeout
+2025-02-08 01:11:52.091 [info] Last EH closed, waiting before shutting down
+2025-02-08 01:11:54.610 [info] [<unknown>][edba4f53][ManagementConnection] New connection established.
+2025-02-08 01:11:54.611 [info] [<unknown>][cf1226b4][ExtensionHostConnection] New connection established.
+2025-02-08 01:11:54.614 [info] [<unknown>][cf1226b4][ExtensionHostConnection] <1430> Launched Extension Host Process.
+2025-02-08 01:16:41.246 [info] [<unknown>][edba4f53][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-08 01:16:41.286 [info] [<unknown>][cf1226b4][ExtensionHostConnection] <1430> Extension Host Process exited with code: 0, signal: null.
+2025-02-08 01:16:41.286 [info] Cancelling previous shutdown timeout
+2025-02-08 01:16:41.287 [info] Last EH closed, waiting before shutting down
+2025-02-08 01:16:55.950 [info] [<unknown>][58166be2][ExtensionHostConnection] New connection established.
+2025-02-08 01:16:55.950 [info] [<unknown>][ee8e403b][ManagementConnection] New connection established.
+2025-02-08 01:16:55.953 [info] [<unknown>][58166be2][ExtensionHostConnection] <1668> Launched Extension Host Process.
+2025-02-08 01:17:09.821 [info] [<unknown>][ee8e403b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-08 01:17:09.845 [info] [<unknown>][58166be2][ExtensionHostConnection] <1668> Extension Host Process exited with code: 0, signal: null.
+2025-02-08 01:17:09.845 [info] Cancelling previous shutdown timeout
+2025-02-08 01:17:09.846 [info] Last EH closed, waiting before shutting down
+2025-02-08 01:17:11.880 [info] [<unknown>][21f9b5ea][ExtensionHostConnection] New connection established.
+2025-02-08 01:17:11.881 [info] [<unknown>][450260ef][ManagementConnection] New connection established.
+2025-02-08 01:17:11.883 [info] [<unknown>][21f9b5ea][ExtensionHostConnection] <1706> Launched Extension Host Process.
