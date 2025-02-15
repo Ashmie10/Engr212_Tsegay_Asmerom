@@ -6,3 +6,5 @@
 2025-02-08 01:23:44.054 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
 2025-02-08 01:23:44.054 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 2025-02-08 01:25:57.142 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-02-08 01:29:55.280 [info] Extension host terminating: received terminate message from renderer
+2025-02-08 01:29:55.296 [info] Extension host with pid 1278 exiting with code 0
