@@ -1,0 +1,18 @@
+2025-02-22 00:41:03.943 [info] 
+
+
+
+
+2025-02-22 00:41:03.977 [info] Extension host agent started.
+2025-02-22 00:41:04.211 [info] [<unknown>][7cb4d5e1][ManagementConnection] New connection established.
+2025-02-22 00:41:04.212 [info] [<unknown>][160d7bdf][ExtensionHostConnection] New connection established.
+2025-02-22 00:41:04.321 [info] [<unknown>][160d7bdf][ExtensionHostConnection] <1287> Launched Extension Host Process.
+2025-02-22 00:41:40.478 [info] [<unknown>][7cb4d5e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-22 00:41:40.509 [info] [<unknown>][160d7bdf][ExtensionHostConnection] <1287> Extension Host Process exited with code: 0, signal: null.
+2025-02-22 00:41:40.509 [info] Cancelling previous shutdown timeout
+2025-02-22 00:41:40.509 [info] Last EH closed, waiting before shutting down
+2025-02-22 00:41:42.831 [info] [<unknown>][6b760e46][ExtensionHostConnection] New connection established.
+2025-02-22 00:41:42.832 [info] [<unknown>][65e41a82][ManagementConnection] New connection established.
+2025-02-22 00:41:42.835 [info] [<unknown>][6b760e46][ExtensionHostConnection] <1333> Launched Extension Host Process.
+2025-02-22 00:46:40.510 [info] New EH opened, aborting shutdown
+2025-02-22 01:02:29.905 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
