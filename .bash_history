@@ -140,3 +140,137 @@ cd /dev
 pwd
 ls -l /dev | grep pts
 ls -l /dev | grep sda
+git add --all
+git commit -m “Lab3 commit”
+git commit -m "Lab3 commit"
+git push
+-p/Engr212_Asmerom_Tsegay/Lab4
+mkdir Lab4
+cd -Lab4
+-p Engr212_Tsegay_Asmerom/Lab4
+mkdir -/Engr212_Asmerom_Tsegay/Lab4
+mkdir --/Engr212_Asmerom_Tsegay/Lab4
+mkdir --help
+cd -/Engr212_Tsegay_Asmerom/Lab4
+cd Lab4
+cd ~/Engr212_Tsegay_Asmerom/Lab4
+rm Lab4
+rm -Lab4
+rm --Lab4
+rmdir -Lab4
+rmdir Lab4
+mkdir -/Engr212_Tsegay_Asmerom/Lab4
+mkdir Engr212_Tsegay_Asmerom/Lab4
+cd -/Engr212_Tsegay_Asmerom/Lab4
+cd Lab4
+-ls
+sudo apt install unzip
+rm -lyric
+rm fileToUnzip.zip
+rm Lyrics.zip
+rm Lab4.Lyrics
+sudo rm Lyrics.zip
+sudo rm Lyrics.zip
+pwd
+ls
+find -name"Lyrics"
+find ~ -name "Lyrics.zip"
+rm Lyrics.zip
+ls -l Lyrics.zip
+ls -a
+rmdir Lab4
+rmdir Lb4
+rm -r Lab4
+rm -rf Lab4
+ls
+pwd
+ls
+cd ~/ENGR212_Tsegay_Asmerom/Lab4
+cd ~/Lab4
+mkdir -/ENGR212_Tsegay_Asmerom/Lab4
+mkdir ~/ENGR212_Tsegay_Asmerom/Lab4
+rm /full/path/to/Lyrics.zip
+ls *.zip
+find ~ -name "Lyrics.zip"
+rm /home/your-username/Downloads/Lyrics.zip
+rm "actual_filename.zip"
+rm "Lyrics File.zip"
+sudo rm Lyrics.zip
+pwd
+cd..
+cd ..
+cd ~/Engr212
+cd ~/Engr212_Tsegay_Asmerom
+cd subdir1
+cd file Lab4
+cd Lab4
+cat Lab4/file1.txt
+cat Lab4
+cat Lab4/
+cd ~/Engr212_Tsegay_Asmerom
+pwd
+ls -l
+cat Lab4/file1.txt
+touch Lab4/file1.txt
+ls Lab4
+ls -l 
+find ~ -type d -name "Lyrics"
+cd Lyrics
+cd Lab4/Lyrics
+cd ~/ENGR212/Lab4
+find ~ -type d -name "Lyrics"
+ls *.txt
+ls *.pdf
+ls -a *.pdf
+ls Lyrics/*.txt
+ls Lab4
+pwd
+cd Lab4
+cd ~/Engr212_Tsegay_Asmerom
+ls
+cd Lab4
+ls
+ls Lab4/*.txt
+ls Lyrics/*.txt
+ls Lab4/Lyrics
+ls -l Lab4
+ls /home/student/Engr212_Tsegay_Asmerom/Lab4/Lyrics
+ls "Lab4/Lyrics"
+ls
+ls Lyrics
+ls -ld Lab4/Lyrics
+ls -l
+sync
+pwd
+ls Lyrics
+ls Lab4/Lyrics
+ls -l Lab4
+cd /home/student/Engr212_Tsegay_Asmerom
+ls
+cd Lab4
+ls
+ls Lyrics
+cat Lyrics/file1.txt
+ls Lyrics/*.pdf
+ls -la Lyrics
+ls *.txt
+cat *.pdf
+ls *.pdf
+ls Lyrics/*night*
+ls /home/student/Engr212_Tsegay_Asmerom/Lab4/Lyrics
+ls Lyrics/*night*
+ls Lyrics
+ls -ld Lyrics
+cd /home/student/Engr212_Tsegay_Asmerom/Lab4
+ls
+ls Lyrics/*night*
+mkdir Lyrics/Night
+mv Lyrics/*night* Lyrics/Night/
+ls Lyrics/Night
+mv Lyrics/*night* Lyrics/Night/
+grep -r "yeah" Lyrics/
+grep -rl "yeah" Lyrics/ | wc -l
+grep -r "yeah$" Lyrics/
+grep -rl "yeah$" Lyrics/ | wc -l
+grep -r "^hey" Lyrics/
+grep -r "^hey$" Lyrics/

@@ -7,3 +7,7 @@
 2025-02-24 02:42:27.665 [info] [<unknown>][f3a200c1][ExtensionHostConnection] New connection established.
 2025-02-24 02:42:27.666 [info] [<unknown>][eb3094a6][ManagementConnection] New connection established.
 2025-02-24 02:42:27.768 [info] [<unknown>][f3a200c1][ExtensionHostConnection] <1290> Launched Extension Host Process.
+2025-02-24 02:45:08.272 [info] [<unknown>][eb3094a6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-24 02:45:08.321 [info] [<unknown>][f3a200c1][ExtensionHostConnection] <1290> Extension Host Process exited with code: 0, signal: null.
+2025-02-24 02:45:08.322 [info] Cancelling previous shutdown timeout
+2025-02-24 02:45:08.322 [info] Last EH closed, waiting before shutting down

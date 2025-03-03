@@ -1,0 +1,9 @@
+Listening on 127.0.0.1:43039
+[2025-03-03 00:04:26] info Disposed of connection to running server.
+[2025-03-03 00:04:26] info Checking /home/student/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /home/student/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[2025-03-03 00:04:26] info Starting server...
+[2025-03-03 00:04:28] info Server started
+[2025-03-03 00:04:38] info Disposed of connection to running server.
+[2025-03-03 00:04:40] info Disposed of connection to running server.
+[2025-03-03 00:04:40] info Checking /home/student/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/log.txt and /home/student/.vscode-server/cli/servers/Stable-e54c774e0add60467559eb0d1e229c6452cf8447/pid.txt for a running server...
+[2025-03-03 00:04:40] info Found running server (pid=1269)
