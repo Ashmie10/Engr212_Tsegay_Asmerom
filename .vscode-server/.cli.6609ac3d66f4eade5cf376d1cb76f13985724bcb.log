@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:46025
+[2025-03-15 03:32:19] info Disposed of connection to running server.
+[2025-03-15 03:32:19] info Checking /home/student/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/log.txt and /home/student/.vscode-server/cli/servers/Stable-6609ac3d66f4eade5cf376d1cb76f13985724bcb/pid.txt for a running server...
+[2025-03-15 03:32:19] info Starting server...
+[2025-03-15 03:32:21] info Server started
+[2025-03-15 05:10:53] info Disposed of connection to running server.

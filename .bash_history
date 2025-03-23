@@ -274,3 +274,230 @@ grep -r "yeah$" Lyrics/
 grep -rl "yeah$" Lyrics/ | wc -l
 grep -r "^hey" Lyrics/
 grep -r "^hey$" Lyrics/
+grep -r "^hey" Lyrics/
+cd Lab4
+cd /home/student/Engr212_Tsegay_Asmerom/Lab4
+ls -l Lyrics/
+grep -ri "^hey" Lyrics/
+grep -ri "^hey" Lyrics/ | wc -l
+grep -ri "nobody" Lyrics/
+grep -roi "nobody" Lyrics/ | wc -l
+grep -r "[0-9]" Lyrics/
+grep -r "[0-9]" Lyrics/ | wc -l
+cd ../Lab3
+git add --all
+git commit -m “Lab4 commit”
+git commit -m "Lab4 commit"
+git push
+mkdir Engr212_Asmerom_Tsegay/Lab5
+mkdir -p Engr212_Tsegay_Asmerom/Lab5
+cd Lab5
+ls Lab5
+cd Engr212_Tsegay_Asmerom/Lab5
+pwd
+ls -i -d Engr212_Tsegay_Asmerom/Lab5
+ls -i -d Engr212_Asmerom_Tsegay/Lab5
+cd Engr212_Tsegay_Asmerom/Lab5
+ls -i -d Engr212_Asmerom_Tsegay/Lab5
+ls -i -d Lab5
+pwd
+ls -l
+find ~ -type d -name "Lab5" 2>/dev/null
+ls -i -d .
+ls -i -d 
+cd Engr212_Tsegay_Asmerom/Lab5
+ls -l
+pwd
+ls -l
+tar -x -fnuimages
+tar -xf nuimages
+tar -xf Lab5
+ass
+tar -xf nuimages.tgz
+ls -l
+find / -name "nuimages.tgz" 2>/dev/null
+cd Engr212_Tsegay_Asmerom/Lab5
+ls -l
+find / -name "nuimages.tgz" 2>/dev/null
+find / -name "nuimages-v1.0-2" 2>/dev/mull
+find / -name "nuimages-v1.0-2" 2>/dev/null
+cd /home/student/Downloads
+ls *.tgz
+tar -xzf nuimages-v1.0-2.tgz
+ls -l nuimages-v1.0-2.tgz
+cd /path/to/correct/directory
+pwd
+ls -l nuimages-v1.0-2.tgz
+ls -l /home/student/Engr212_Tsegay_Asmerom/Lab5
+file nuimages-v1.0-mini-2
+tar -xzf nuimages-v1.0-mini-2.tgz
+tar -xf nuimages-v1.0-mini-2.tar
+file nuimages-v1.0-mini-2
+ls -l /home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2
+cd /home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2
+ls -l
+ls -l /home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2
+rm nuimages-v1.0-mini-2.tgz
+rm -i nuimages-v1.0-mini-2.tgz
+ls -l
+cd Engr212_Tsegay_Asmerom/Lab5
+rm -i nuimages-v1.0-mini-2.tgz
+rm -i nuimages-v1.0-mini-2
+rm nuimages-v1.0-mini-2.tgz
+cd /home/student/Engr212_Tsegay_Asmerom/Lab5
+rm nuimages-v1.0-mini-2.tgz
+sudo rm nuimages-v1.0-mini-2.tgz
+ls -l nuimages-v1.0-mini-2.tgz
+ls -b
+mv "nuimages-v1.0-mini-2.tgz" nuimages-v1.0-mini-2-clean.tgz
+rm nuimages-v1.0-mini-2-clean.tgz
+ls -l nuimages-v1.0-mini-2.tgz
+rm Lab5
+cd Engr212_Tsegay_Asmerom
+rm "Lab5"
+rm -r Lab5
+rm -r /home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1. 0-mini-2
+rm -r /home/student/Engr212_Tsegay_Asmerom/Lab5
+mkdir Engr212_Tsegay_Asmerom/Lab5
+mkdir Lab5/dataset
+mv nuimages-v1.0-mini-2/* Lab5/dataset/
+pwd
+cd Engr212_Tsegay_Asmerom/Lab5
+mkdir ~/Lab5
+mkdir ~/Lab5/dataset
+ls ~/Engr212_Tsegay_Asmerom/Lab5/
+mv ~/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2/* ~/Lab5/dataset/
+ls ~/Engr212_Tsegay_Asmerom/Lab5/
+ls ~/Engr212_Tsegay_Asmerom/
+tar -xvzf /path/to/your/nuimages-v1.0-mini-2.tgz -C /home/student/Engr212_Tsegay_Asmerom/Lab5/
+cd Engr212_Tsegay_Asmerom/Lab5
+pwd
+ls -l
+ls -l nuimages-v1.0-mini-2
+tar -xvzf ~/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2.tgz -C ~/Engr212_Tsegay_Asmerom/Lab5/
+tar -xvzf nuimages-v1.0-mini-2.tgz
+ls -l Lab5
+pwd
+Cd Engr212_Tsegay_Asmerom
+cd Engr212_Tsegay_Asmerom
+pwd
+cd Engr212_Asmerom_Tsegay
+rm -r Lab5/dataset
+rm -r Lab5
+cd Engr212_Tsegay_Asmerom
+tar -xvzf nuimages-v1.0-mini-2.tgz
+pwd
+cd LAb5
+cd Lab5
+tar -xvzf nuimages-v1.0-mini-2.tgz
+tar -xf nuimages-v1.0-mini-2.tgz
+pwd
+ls -l
+ls -l nuimages-v1.0-mini-2
+ls -l | grep "nuimages"
+find ~ -name "nuimages-v1.0-mini-2.tgz"
+mv /path/to/nuimages-v1.0-mini-2.tgz ~/Engr212_Tsegay_Asmerom/Lab5
+tar -xvzf nuimages-v1.0-mini-2.tgz
+mkdir ~/Engr212_Tsegay_Asmerom/Lab5/dataset
+rm nuimages-v1.0-mini-2.tgz
+ls -l | cat -v
+ls -l /home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini-2.tgz
+cd Engr212_Tsegay_Asmerom
+cd Lab5
+mv nuimages-v1.0-mini-2 ~/Engr212_Tsegay_Asmerom/Lab5/dataset/
+mkdir Engr212_Tsegay_Asmerom/Lab6
+cp Lab4 /home/Engr212_Tsegay_Asmerom/Lab6
+cp Lyrics /Engr212_Tsegay_Asmerom/Lab6
+cd
+cd Engr212_Tsegay_Asmerom/Lab4
+cp Lyrics/Engr212_Tsegay_Asmerom/Lab6
+cp --help
+cd Engr212_Tsgay_Asmerom
+cd Engr212_Tsegay_Asmerom
+cp Lab4 /home/Engr212_Tsegay_Asmerom/Lab6
+cp -r Lab4 /home/Engr212_Tsegay_Asmerom/Lab6
+cp Lab4 -r /home/Engr212_Tsegay_Asmerom/Lab6
+cp Lyrics -r /home/Engr212_Tsegay_Asmerom/Lab6
+cd Lab4
+ls Lab4
+ls -l Lab4
+pwd
+cd /home/Engr212_Tsegay_Asmerom
+cp -r Lab4/Lyrics Lab6/
+cd /home/Engr212_Tsegay_Asmerom 
+pwd
+cd Engr212_Tsegay_Asmerom 
+cp -r Lab4/Lyrics Lab6/
+ls -i Lab6
+cd Engr212_Tsegay_Asmerom
+ls -i Lab6
+ls -i Lab4
+cd Lab6/Lyrics
+ls -;
+ls -l
+chmod 260 all_my_life_txt
+cd Lyrics
+cd Lab6
+cd Engr212_Tsegay_Asmerom/Lab6
+ls
+chmod 260 all_my_life_txt
+chmod 660 all_my_life.txt
+chmod 260 all_my_life.txt
+ls -l
+cat all_my_life.txt
+ls -l all_my_life.txt
+chmod u+r all_my_life.txt
+ls -l all_my_life.txt
+ls - l all_my_life_txt
+cd Engr212_Tsegay_Asmerom 
+cd LAb6
+cd Lab 6
+cd Lab6
+ls -l all_my_life_txt
+ls -l all_my_life.txt
+ls -l Lab6
+cd Engr212_Tsegay_Asmerom
+ls 
+ls -l Lyrics
+chmod u+r all_my_life.txt
+ls -l
+find ~ -name "all_my_life.txt"
+chmod u+r all_my_life.txt
+cd /home/student/Engr212_Tsegay_Asmerom/Lab6/Lyrics/
+chmod u+r all_my_life.txt
+ls -l all_my_life.txt
+chmod g-w all_my_life.txt
+ls -l
+chmod u+r/g+r Lyrics
+chmod -R 777 Lyrics
+chmod -R 777Lyrics
+chmod -r 777 Lyrics
+chmod g+rw.o+rw Lyrics
+chmod -R 777 Lyrics
+chmod -R g+rw,o+rw Lyrics
+pwd
+cd Engr212_Tsegay_Asmerom/Lab6
+chmod -R g+rw,o+rw Lyrics
+ls -l Lyrics
+pwd
+ls -l Night
+cd Lyrics
+ls -l Night
+chmod u-x Night
+ls -l
+ls-l Night
+chmod u-x Night
+ls-l
+ls -l
+ls _l Night
+pwd
+ls -l Night
+sudo ls -l Night
+cat Night/dance_the_night.pdf
+chmod u+x Night
+ls -l Night
+ls -l Lyrics
+cd Lab6
+chmod 777
+cd Engr212_Tsegay_Asmerom/lab6
+pwd
