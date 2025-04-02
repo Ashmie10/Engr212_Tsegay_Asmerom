@@ -501,3 +501,87 @@ cd Lab6
 chmod 777
 cd Engr212_Tsegay_Asmerom/lab6
 pwd
+What does the command “chmod 777 ~” do? Why might this be problematic
+from a file security perspective?
+cd Engr212_Tsegay_Asmerom/Lab6
+ls -l
+ls -l Lyrics
+unmask 
+umask
+umask -S
+umask 077
+ls -l
+ls-l Lyrics
+pwd
+ls -l Lyrics
+umask 077
+ls -l Lyrics
+umask
+umask 077
+umask
+ls -l Lyrics
+git add --all
+git commit -m "Lab 6 commit"
+git push
+mkdir Engr212_Tsegay_Asmerom/Lab7
+vim example1.txt
+rm example1.txt
+cd Engr212_Tsegay_Asmerom/Lab7
+vim example1.txt
+cd Engr212_Tsegay_Asmerom/Lab7
+cd example1.txt.swp
+rm example1.txt.swp
+rm -f ~/.vim/swap/example1.txt.swp
+ls -l Lab7
+rm -f ~/.vim/swap/example1.txt.swp
+pwd
+cd Engr212_Tsegay_Asmerom/Lab7
+pwd
+ls -l
+vim example1.txt.swp
+cd Engr212_Tsegay_Asmerom/Lab7
+cd example1.txt.swp
+vim example1.txt.swp
+ls -l
+ls -l Lab7
+pwd
+cd Engr212_Tsegay_Asmerom/Lab7
+ls -l
+cd Engr212_Tsegay_Asmerom/Lab7
+vim example1.txt.swp
+:wq
+ls Lab7
+ls -l
+vim example.txt.swp
+cd Engr212_Tsegay_Asmerom/Lab7
+ls -l
+vim example1.txt
+vim example1.txt.swp
+pwd
+rm exmple1.txt.swp
+rm example1.txt.swp
+cd Engr212_Tsegay_Asmerom/Lab7
+vim example1.txt.swp
+cd Engr212_Tsegay_Asmerom/Lab7
+pwd
+vim example1.txt.swp
+cd Engr212_Tsegay_Asmerom
+cp /path/to/Lab6/Lyrics/all_my_life.txt
+cp /path/to/Lab6/Lyrics/all_my_life.txt /path/to/Lab7/
+cd ~/Engr212_Tsegay_Asmerom/Lab6/Lyrics
+'cp ~/Engr212_Tsegay_Asmerom/Lab6/Lyrics/all_my_life.txt ~/Engr212_Tsegay_Asmerom/Lab7/
+
+cd ~/Engr212_Tsegay_Asmerom/Lab6/Lyrics
+cp ~/Engr212_Tsegay_Asmerom/Lab6/Lyrics/all_my_life.txt ~/Engr212_Tsegay_Asmerom/Lab7/
+vim ~/Engr212_Tsegay_Asmerom/Lab7/all_my_.txt
+vim ~/Engr212_Tsegay_Asmerom/Lab7/all_my_life.txt
+pwd
+cd Engr212_Tsegay_Asmerom
+mkdir Engr212_Tsegay_Asmerom/Lab8
+mkdir Lab8
+cd Lab8
+vim substitution 
+cd Engr212_Tsegay_Asmerom/Lab8
+vim substitution
+cat substitution
+mv 08_Iris_data.csv Iris_data.csv

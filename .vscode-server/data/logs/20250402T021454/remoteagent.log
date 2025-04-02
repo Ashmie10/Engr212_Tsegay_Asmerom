@@ -1,0 +1,17 @@
+2025-04-02 02:14:54.589 [info] 
+
+
+
+
+2025-04-02 02:14:54.605 [info] Extension host agent started.
+2025-04-02 02:14:54.870 [info] [<unknown>][b4696670][ManagementConnection] New connection established.
+2025-04-02 02:14:54.872 [info] [<unknown>][d86893a6][ExtensionHostConnection] New connection established.
+2025-04-02 02:14:54.964 [info] [<unknown>][d86893a6][ExtensionHostConnection] <1189> Launched Extension Host Process.
+2025-04-02 02:15:18.648 [info] [<unknown>][b4696670][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-02 02:15:18.676 [info] [<unknown>][d86893a6][ExtensionHostConnection] <1189> Extension Host Process exited with code: 0, signal: null.
+2025-04-02 02:15:18.677 [info] Cancelling previous shutdown timeout
+2025-04-02 02:15:18.677 [info] Last EH closed, waiting before shutting down
+2025-04-02 02:15:20.983 [info] [<unknown>][87f5954f][ExtensionHostConnection] New connection established.
+2025-04-02 02:15:20.984 [info] [<unknown>][6a072019][ManagementConnection] New connection established.
+2025-04-02 02:15:20.987 [info] [<unknown>][87f5954f][ExtensionHostConnection] <1237> Launched Extension Host Process.
+2025-04-02 02:20:18.678 [info] New EH opened, aborting shutdown
