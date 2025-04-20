@@ -8,3 +8,12 @@
 2025-04-20 00:04:45.973 [info] [<unknown>][2081208a][ExtensionHostConnection] New connection established.
 2025-04-20 00:04:46.078 [info] [<unknown>][2081208a][ExtensionHostConnection] <1189> Launched Extension Host Process.
 2025-04-20 00:09:45.665 [info] New EH opened, aborting shutdown
+2025-04-20 00:48:10.383 [info] [<unknown>][38897563][ManagementConnection] The client has reconnected.
+2025-04-20 00:48:36.797 [info] [<unknown>][2081208a][ExtensionHostConnection] The client has reconnected.
+2025-04-20 01:57:51.493 [info] [<unknown>][38897563][ManagementConnection] The client has reconnected.
+2025-04-20 01:57:51.498 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/student/.vscode-server/cli/servers/Stable-4437686ffebaf200fa4a6e6e67f735f3edf24ada/server/out/server-main.js:183:1060)
+    at process.emit (node:events:530:35)
+2025-04-20 01:57:51.502 [info] [<unknown>][2081208a][ExtensionHostConnection] The client has reconnected.
+2025-04-20 03:07:27.178 [info] [<unknown>][38897563][ManagementConnection] The client has reconnected.
+2025-04-20 03:07:50.353 [info] [<unknown>][2081208a][ExtensionHostConnection] The client has reconnected.

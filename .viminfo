@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1744417356,,"wq"
+|2,0,1745119273,,"wq"
 :q
 |2,0,1743908920,,"q"
 :%s/,/ /g
@@ -129,230 +129,365 @@ $
 |3,0,36,0,1,0,1743908295," "
 
 # File marks:
-'0  11  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,48,11,0,1744417356,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
-'1  10  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,49,10,0,1744417229,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
-'2  10  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,50,10,0,1744417229,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
-'3  5  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,51,5,0,1744347652,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
-'4  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,52,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
-'5  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,53,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
-'6  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,54,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
-'7  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,55,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
-'8  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,56,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
-'9  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,57,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
+'0  18  69  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,48,18,69,1745119273,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+'1  20  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,49,20,0,1745119071,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+'2  20  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,50,20,0,1745119071,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+'3  18  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,51,18,0,1745118904,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+'4  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,52,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+'5  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,53,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+'6  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,54,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+'7  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,55,30,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+'8  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,56,30,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+'9  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,57,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
 
 # Jumplist (newest first):
--'  11  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,39,11,0,1744417356,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,39,10,0,1744417345,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,39,10,0,1744417229,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,39,1,0,1744416973,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
-|4,39,1,0,1744416973,"~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh"
--'  5  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,5,0,1744347652,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  5  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,5,0,1744347652,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  5  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,5,0,1744347652,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  5  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,5,0,1744347652,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,1,0,1744347442,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,1,0,1744347442,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,1,0,1744347442,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  1  0  ~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh
-|4,39,1,0,1744347442,"~/Engr212_Tsegay_Asmerom/Lab9/view_directory.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1744346814,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1744346713,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911682,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911661,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911547,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911434,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911345,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  9  22  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,9,22,1743911173,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743911150,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
--'  10  0  ~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh
-|4,39,10,0,1743910922,"~/Engr212_Tsegay_Asmerom/Lab9/myscript.sh"
+-'  18  69  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,18,69,1745119273,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  20  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,20,0,1745119206,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  20  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,20,0,1745119071,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  18  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,18,0,1745118904,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,1,0,1745117944,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,1,0,1745117944,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+|4,39,1,0,1745117944,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  45  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,45,0,1745117459,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116686,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  17  61  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,17,61,1745116240,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  30  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,30,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115968,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  19  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,19,0,1745115827,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113855,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  1  0  ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+|4,39,1,0,1745113608,"~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
+-'  75  1  ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+|4,39,75,1,1745113131,"~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Engr212_Tsegay_Asmerom/Lab10/guessTheIntHint.sh
+	*	1745119271	0
+	"	18	69
+	^	18	70
+	.	18	69
+	+	4	40
+	+	21	117
+	+	21	130
+	+	21	47
+	+	21	0
+	+	12	15
+	+	21	0
+	+	12	61
+	+	14	14
+	+	12	89
+	+	10	80
+	+	16	33
+	+	12	133
+	+	17	18
+	+	19	2
+	+	16	0
+	+	14	0
+	+	13	2
+	+	14	4
+	+	16	1
+	+	17	4
+	+	15	54
+	+	12	56
+	+	18	69
+
+> ~/Engr212_Tsegay_Asmerom/Lab10/guessTheInt.sh
+	*	1745117455	0
+	"	45	0
+	^	45	0
+	.	44	2
+	+	1	17
+	+	5	15
+	+	2	23
+	+	3	19
+	+	7	41
+	+	12	39
+	+	14	7
+	+	12	44
+	+	15	0
+	+	12	38
+	+	14	48
+	+	16	25
+	+	10	15
+	+	9	10
+	+	10	10
+	+	17	39
+	+	14	17
+	+	8	68
+	+	9	24
+	+	10	81
+	+	12	80
+	+	14	59
+	+	16	46
+	+	17	61
+	+	27	8
+	+	23	4
+	+	20	20
+	+	22	20
+	+	29	45
+	+	33	0
+	+	32	2
+	+	34	6
+	+	27	29
+	+	29	31
+	+	38	40
+	+	31	31
+	+	24	31
+	+	39	0
+	+	44	2
+
+> ~/Engr212_Tsegay_Asmerom/Lab10/conditional.sh
+	*	1745113130	0
+	"	75	1
+	^	75	2
+	.	73	25
+	+	2	0
+	+	1	11
+	+	12	2
+	+	13	0
+	+	14	4
+	+	14	11
+	+	14	18
+	+	16	2
+	+	15	0
+	+	16	0
+	+	17	0
+	+	16	2
+	+	21	2
+	+	16	4
+	+	22	0
+	+	26	23
+	+	30	36
+	+	32	0
+	+	34	0
+	+	36	6
+	+	34	9
+	+	35	15
+	+	36	52
+	+	40	11
+	+	38	11
+	+	41	0
+	+	41	2
+	+	34	3
+	+	42	0
+	+	45	0
+	+	45	36
+	+	64	0
+	+	45	0
+	+	44	5
+	+	45	35
+	+	50	2
+	+	45	33
+	+	34	4
+	+	63	1
+	+	52	7
+	+	57	0
+	+	56	30
+	+	60	5
+	+	62	0
+	+	61	1
+	+	62	26
+	+	57	6
+	+	75	1
+	+	72	0
+	+	70	0
+	+	74	33
+	+	70	13
+	+	69	25
+	+	73	25
 
 > ~/Engr212_Tsegay_Asmerom/Lab10/condtional.sh
 	*	1744417354	0

@@ -748,3 +748,26 @@ git commit -m "Lab9 commit"
 cd Engr212_Tsegay_Asmerom
 pwwd
 pwd
+cd Engr212_Tsegay_Asmerom
+git add --all
+git commit -m "Lab9"
+git push
+git add
+git add --all
+git commit -m "Lab10"
+git push
+pwd
+cd Engr212_Tsegay_Asmerom
+cd Lab10
+vim conditional.sh
+cd Engr212
+cd Engr212_Tsegay_Asmerom
+cd Lab10
+rm conditional.sh
+rm condtional.sh
+rm conditional.sh
+ls -l
+vim conditional.sh
+rm condtional.sh
+ls -l
+vim conditional.sh

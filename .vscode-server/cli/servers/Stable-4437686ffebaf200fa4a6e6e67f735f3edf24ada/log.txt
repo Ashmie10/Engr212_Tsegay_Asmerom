@@ -19,3 +19,5 @@ Extension host agent listening on /tmp/code-fbe250e0-bb1c-4958-8948-ba129fdd74a2
 [00:04:46] [<unknown>][2081208a][ExtensionHostConnection] <1189> Launched Extension Host Process.
 New EH opened, aborting shutdown
 [00:09:45] New EH opened, aborting shutdown
+[00:48:10] [<unknown>][38897563][ManagementConnection] The client has reconnected.
+[00:48:36] [<unknown>][2081208a][ExtensionHostConnection] The client has reconnected.
