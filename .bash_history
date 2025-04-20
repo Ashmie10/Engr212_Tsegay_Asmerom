@@ -585,3 +585,166 @@ cd Engr212_Tsegay_Asmerom/Lab8
 vim substitution
 cat substitution
 mv 08_Iris_data.csv Iris_data.csv
+cd Engr212_Tsegay_Asmerom/Lab8
+vim Iris_data.csv
+sort Iris_data.csv
+ls-l
+ls
+ls -l Iris_data.csv
+sort -k6 Iris_data.csv > Iris_data_sorted.csv
+grep -n ", ," Iris_data.csv
+grep -n ", ," Iris_data_sorted.csv
+grep -n "  " Iris_data_sorted.csv
+awk 'NF < 6' Iris_data_sorted.csv
+sort -k6 Iris_data.csv > Iris_data_sorted.csv
+sort Iris_data.csv > Iris_data_sorted.csv
+sort -k6 Iris_data.csv > Iris_data_sorted.csv
+sort -t, -k1,1 Iris_data.csv > Iris_data_sorted_by_sepal_length.csv
+sort -t, -k2,2 Iris_data.csv > Iris_data_sorted_by_sepal_width.csv
+sort -t, -k3,3 Iris_data.csv > Iris_data_sorted_by_petal_length.csv
+sort -t, -k10,10 breast-w.csv > breast-w-sorted.csv
+rm breast-w-sorted.csv
+sort -t, -k1,1 Iris_data.csv > breast-w-sorted.csv
+sort -k6,6 -k4,4 Iris_data.csv > Iris_data_PetalLength.csv
+sort -t, -k10,10 -k3,3 breast-w.csv > breast-w-uniform.csv
+sort -t, -k10,10 -k6,6 breast-w-sorted.csv > breast-w-uniform.csv
+rm breast-w-uniform.csv
+sort -t, -k2,2 -k3,3 breast-w-sorted.csv > breast-w-uniform.csv
+rm breast-w-uniform.csv
+sort -t, -k2,2 -k3,3 breast-w-sorted.csv > breast-w-uniform.csv
+rm breast-w-uniform.csv
+sort -t, -k1,1 -k5,5 breast-w.csv > breast-w-uniform.csv
+sort -k1,0 -k6,5 breast -w-sorted.csv > breast-w-uniform.csv
+sort -t, -k1,1 -k6,6 breast-w-sorted.csv > breast-w-uniform.csv
+git add --all
+git commit -m "Lab8 commit" 
+git pusj
+git push
+pwd
+cd Engr212_Tsegay_Asmerom
+mkdir Lab9
+cd Lab9
+~/.bashrc
+Lab9.bashrc
+cat .bashrc
+$ bash
+Lab9.bashrc
+pwd
+cd Engr212_Tsegay_Asmerom
+echo ~/.bashrc
+vim ~/.bashrc
+pwd
+cd Engr212_Tsegay_Asmerom/Lab9
+vim ~/.bashric
+pwd 
+cd Engr212_Tsegay_Asmerom
+cd Lab9
+vim ~/bashrc
+pwd
+cd Engr212_Tsegay_Asmerom/Lab9
+vim ~/.bashrc
+cd
+pwd
+cd Engr212_Tsegay_Asmerom
+mkdir Lab1
+cd Lab9
+vim path.sh
+chomd +x path.sh
+chmod +x path.sh
+/.path.sh
+./path.sh
+vim path.sh
+./path.sh
+pwd
+vim myscript.sh
+./myscript.sh
+chmod +x myscript.sh
+./myscript.sh
+pwd
+vim myscript.sh
+./myscript.sh
+vim myscrip.sh
+vim /.bashrc
+cd Engr212_Tsegay_Asmerom/Lab9
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+.myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+chmod +x myscript.sh
+./myscript.sh
+vim myscript.sh
+./myscript.sh
+vim myscript.sh
+chmod +x myscript.sh
+./myscript.sh
+cd
+cd Engr212_Tsegay_Asmerom/Lab9
+vim myscript.sh
+chmod +x myscript.sh
+./myscript.sh
+vim view_directory.sh
+chmod +x view_directory.sh
+./view_directory.sh
+/view_directory.sh
+./view_directory.sh
+/view_directory.sh
+./view_directory.sh
+cd
+pwd
+./view_directory.sh
+cd Engr212_Tsegay_Asmerom/Lab9
+./view_directory.sh
+pwd
+cd Engr212_Tsegay_Asmerom
+mkdir Lab10
+cd Lab10
+pwd
+cd Engr212_Tsegay_Asmerom/Lab10
+#!/bin/sh
+#!/bin/bash
+str1=”batman”
+str2=”superman"
+if [ $str1 = $str2 ]
+then
+cd Engr212_Tsegay_Asmerom/Lab10
+vim condtional.sh
+./conditional.sh
+chmod +x condtional.sh
+./condtional.sh
+vim condtional.sh
+./condtional.sh
+pwd
+cd Engr212_Tsegay_Asmerom
+cd LAb9
+cd Lab9
+git push
+git init
+git add .
+git commit -m "Lab9"
+git push -u origin main
+git push
+git push <Lab9>
+git add
+git commit -m "Lab9"
+pwd
+cd Engr212_Tsegay_Asmerom/Lab9
+pwd
+git -add
+git --add
+git add --all
+git commit -m "Lab9"
+git commit -m "Lab9 commit"
+cd Engr212_Tsegay_Asmerom
+pwwd
+pwd

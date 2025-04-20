@@ -1,0 +1,31 @@
+2025-04-11 04:35:26.354 [info] 
+
+
+
+
+2025-04-11 04:35:26.354 [info] 
+
+
+
+
+2025-04-11 04:35:26.369 [info] Extension host agent started.
+2025-04-11 04:35:26.369 [info] Extension host agent started.
+2025-04-11 04:35:26.611 [info] [<unknown>][a9b31832][ExtensionHostConnection] New connection established.
+2025-04-11 04:35:26.612 [info] [<unknown>][3edc1a5e][ManagementConnection] New connection established.
+2025-04-11 04:35:26.616 [info] [<unknown>][0c0b72f4][ExtensionHostConnection] New connection established.
+2025-04-11 04:35:26.617 [info] [<unknown>][ef290156][ManagementConnection] New connection established.
+2025-04-11 04:35:26.721 [info] [<unknown>][a9b31832][ExtensionHostConnection] <1346> Launched Extension Host Process.
+2025-04-11 04:35:26.721 [info] [<unknown>][0c0b72f4][ExtensionHostConnection] <1347> Launched Extension Host Process.
+2025-04-11 04:35:31.757 [info] [<unknown>][ef290156][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-11 04:35:31.794 [info] [<unknown>][0c0b72f4][ExtensionHostConnection] <1347> Extension Host Process exited with code: 0, signal: null.
+2025-04-11 04:35:31.794 [info] Cancelling previous shutdown timeout
+2025-04-11 04:35:31.794 [info] Last EH closed, waiting before shutting down
+2025-04-11 04:35:34.300 [info] [<unknown>][ab06248e][ManagementConnection] New connection established.
+2025-04-11 04:35:34.324 [info] [<unknown>][4fa6b43e][ExtensionHostConnection] New connection established.
+2025-04-11 04:35:34.328 [info] [<unknown>][4fa6b43e][ExtensionHostConnection] <1438> Launched Extension Host Process.
+2025-04-11 04:35:37.841 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/student/.vscode-server/data/logs/20250315T033222/exthost1/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/student)
+2025-04-11 04:35:37.841 [error] [File Watcher (universal)] inotify_add_watch on '/home/student/.vscode-server/data/logs/20250315T033222/exthost1/vscode.git' failed: No such file or directory
+2025-04-11 04:40:26.370 [info] New EH opened, aborting shutdown
+2025-04-11 04:40:31.795 [info] Last EH closed, shutting down
+2025-04-11 05:17:38.234 [info] [<unknown>][ab06248e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-11 05:17:38.290 [info] [<unknown>][4fa6b43e][ExtensionHostConnection] <1438> Extension Host Process exited with code: 0, signal: null.
