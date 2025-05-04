@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:46227
+[2025-05-04 05:14:58] info Disposed of connection to running server.
+[2025-05-04 05:14:59] info Checking /home/student/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/log.txt and /home/student/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/pid.txt for a running server...
+[2025-05-04 05:14:59] info Found running server (pid=1268)
+[2025-05-04 05:15:37] info Disposed of connection to running server.
+[2025-05-04 05:15:38] info Disposed of connection to running server.
+[2025-05-04 05:15:39] info Checking /home/student/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/log.txt and /home/student/.vscode-server/cli/servers/Stable-17baf841131aa23349f217ca7c570c76ee87b957/pid.txt for a running server...
+[2025-05-04 05:15:39] info Found running server (pid=1268)

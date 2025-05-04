@@ -771,3 +771,276 @@ vim conditional.sh
 rm condtional.sh
 ls -l
 vim conditional.sh
+cd Engr212_Tsegay_Asmerom/Lab10
+ls -l
+vim conditional.sh
+chmod +x conditional.sh
+./conditional.sh
+vim conditional.sh
+chmod +x conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional/.sh
+.conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+vim conditional.sh
+./conditional.sh
+int=50; if [[ $int -lt 50 || $int -gt 100 ]]; then echo "true"; else echo "false"; fi
+pwd
+vim guessTheInt.sh
+ls -l Create a new script called guessTheInt.sh using vim. What permissions
+does this file have b
+ls -l guessTheInt.sh
+vim guessTheInt.sh
+chmod +x guessTheInt.sh
+./guessTheInt.sh
+vim guessTheInt.sh
+./guessTheInt.sh
+cp guessTheInt.sh guessTheIntHint.sh
+vim guessTheIntHint.sh
+chmod +x guessTheIntHint.sh
+./guessTheIntHint.sh
+vim guessTheIntHint.sh
+./guessTheIntHint.sh
+vim guessTheIntHint.sh
+git add --all
+git commit -m "Lab10"
+git push
+pwd
+cd Engr212_Tsegay_Asmerom
+mkdir Lab11
+cp Lab4 Lab11
+cp -r Lab4 Lab11
+cd Lab11
+wc -l
+pwd
+cd Engr212_Tsegay_Asmerom/Lab11
+wc -l Lyrics
+ls -l
+wc -l Night
+wc -l barbie_world.txt
+wc -l Night.txt
+cd Night
+cd Lyrics/Night
+pwd
+cd Lyrics
+ls -l
+rm Lab11
+cd Engr212_Tsegay_Asmerom
+rm -r Lab11
+mkdir Lab11
+cp -r  Lab4/Lyrics Lab11
+cd Lab11
+ls -l
+pwd
+wc -l barbie_world.tx
+wc barbie_world.txt
+cd Night
+cd Lyrics
+cd Night
+wc -l barbie_world.txt
+wc -w barbie_world.txt
+cd Engr212_Tsegay_Asmerom/Lab11/Lyrics/Night
+wc -l barbie_world.txt
+ls -l
+wc -l last_night.txt
+chmod -x barbie_world.txt
+chmod -r barbie_world.txt
+chmod -w barbie_world.txt
+find barbie_world.txt
+cp -r  
+cp -r Lab4/Lyrics/Night/barbie_world.txt  Lab11/Night
+pwd
+find barbie_world.txt
+chmod +rwx barbie_world.txt
+find Night/barbie_world.txt
+ls-l Night
+ls -l Night
+ls -l
+chmod +rwx Nights
+chmod +rwx Night
+pwd
+cd Engr212_Tsegay_Asmerom/Lab11
+wc barbie_world.txt
+wc lab11/barbie_world.txt
+ls -l
+ls -l Night
+ls -l Lyrics/Night
+find . -name "barbie_world.txt"
+wc barbie_world.txt
+realpath Lyrics/barbie_world.txt
+wc/Lab11/Lyrics/barbie_world.txt
+wc Lyrics/barbie_world.txt
+wc
+wc < barbie_world.txt
+wc < barbie_world.txt > barbie_wc.txt
+wc < /path/to/barbie_world.txt > barbie_wc.txt
+ls -l barbie_wc.txt
+cat barbie_wc.txt
+pwd
+wc < barbie_world.txt > barbie_wc.txt
+ls
+wc </path/to/barbie_world.txt
+wc < barbie_world.txt > barbie_wc.txt
+ls -ld .
+ls -l barbie_world.txt
+find . -name "barbie_world.txt"
+cd /path/to/directory/with/barbie_world.txt
+wc < barbie_world.txt > barbie_wc.txt
+cd Lyrics
+wc < barbie_world.txt > barbie_wc.txt
+wc < barbie_world.txt > barbie_wc.txt 2> barbie_error.log
+cd Engr212_Tsegay_Asmerom/Lab11
+for file in Lyrics/*; do echo $file; done
+for file in Lyrics/*; do     wc $file > wc.txt; done
+for file in Lyrics/*; do     wc $file >> wc.txt; done
+grep ".pdf" *
+ls -l | grep ".pdf"
+pwd
+ls -l
+cd Lyrics
+ls -l | grep ".pdf"
+ls -l temp.txt
+ls -l temp.txt grep ".pdf" < temp.txt
+ls -l > temp.txt
+grep ".pdf" < temp.txt
+ls -l > cat
+command's output will not be saved to a file. Instead, it will be sent to cat, which then prints it to the termina
+git --add all
+git add 
+git add –all
+cd Engr212_Tsegay_Asmerom/Lab11
+git add –all
+git add –-all
+git add
+git add .
+git commit -m "Lab 11 commit"
+git push
+cd Engr212_Tsegay_Asmerom/Lab5
+tar -xf nuimages-v1.0-mini.tar
+ls-l
+ls -l
+ls
+tar -xzf nuimages-v1.0-mini.tar.gz
+cd /path/to/directory/with/tarfile
+find . -name "nuimages-v1.0-mini*"
+tar -xf nuimages-v1.0-mini.tar
+file ./dataset/nuimages-v1.0-mini-2/nuimages-v1.0-mini-2
+mv nuimages-v1.0-mini-2 dataset/
+mkdir nuimages-v1.0-mini
+mv nuimages* nuimages-v1.0-mini/
+mv nuimages-v1.0-mini-* nuimages-v1.0-mini/
+ls
+mv dataset/* nuimages-v1.0-mini/
+rm nuimages-v1.0-mini.tgz
+pwd
+rm -r  nuimages-v1.0-mini.tgz
+rm /path/to/nuimages-v1.0-mini.tgz
+sudo rm nuimages-v1.0-mini.tgz
+pwd
+cd dataset/nuimages-v1.0-mini
+cd dataset/nuimages-v1.0-mini.
+cd dataset
+ls
+ls-l
+ls -l
+/home/student/Engr212_Tsegay_Asmerom/Lab5/nuimages-v1.0-mini.tgz
+pwd
+realpath dataset
+dataset
+ls
+ls -l
+pw
+pwd
+~
+pwd
+cd Engr212_Tsegay_Asmerom
+~
+~dataseet
+~dataset
+~/dataset
+..
+. .
+~/..
+..
+pwd
+cd Lab5
+..
+cd ..
+pwd
+~/Engr212_Tsegay_Asmerom/Lab5/dataset
+cd ~/Engr212_Tsegay_Asmerom/Lab5/dataset
+mv nuimages-v1.0-mini/dataset
+mv nuimages-v1.0-mini dataset/
+ls -l 
+rm -r Lab5
+cd Engr212_Tsegay_Asmerom/Lab5
+pwd
+cd Lab5
+cd Engr212_Tsegay_Asmerom/LAb5
+cd Engr212_Tsegay_Asmerom/Lab5
+rm -r dataset
+rm -r nuimages-v1.0-mini
+pwd
+cd Lab6
+cd Engr212_Tsegay_Asmerom
+cd ..
+pwd
+cd Lab6
+cd ..
+cd Lab 6
+cd Lab6
+cd ..
+cd Lab5
+mkdir dataset
+mv nuimages-v1.0-mini dataset/
+mv nuimages-v1.0-mini dataset
+pwd
+ls
+mv nuimages-v1.0-mini-2 dataset/
+cd dataset
+ls
+cd dataset/nuimages-v1.0-mini-2/sweeps/CAM_BACK/
+pwd
+cd nuimages-v1.0-mini-2/sweeps/CAM_BACK
+ls *n013*
+wc -l
+ls *n013* | cut -d'_' -f1 | sort -u | wc -l
+ls *n013* | wc -l
+ls *n013*
+ls wc-l
+find . -name '*n013*'
+mkdir -p ../defective
+find . -name '*n013*' -exec cp {} ../defective/ \;
+cp [filename] ../defective/
+find . -name '*n013*' -exec cp {} ../defective/ \;
+cp 2022-05-15_n013_image.jpg ../defective/
+cd ~/Engr212_Tsegay_Asmerom/Lab5/dataset
+find . -name '*n013*' -exec cp {} ../defective/ \;
+pwd
+mkdir -p ../defective
+cd ~/Engr212_Tsegay_Asmerom/Lab5/dataset
+find . -name '*n013*' -exec cp {} ../defective/ \;
+cp 2022-05-15_n013_image.jpg ../defective/
+mkdir -p ../defective
+git commit -m “Lab5 commit”
+git commit -m "Lab5 commit"
+git push
+git add
+git add.
+git --add
+pwd
+cd Lab5
+cd ..
+pwd
+git --add
